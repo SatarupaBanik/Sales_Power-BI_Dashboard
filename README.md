@@ -26,9 +26,8 @@ Incorporated data analysis techniques, specializing in time series analysis to d
 - **Forecasting**: Predictive analysis of future sales trends based on historical data.
 
 # Project Structure:
-- **Power BI file** : The main Power BI report file containing the dashboard and associated visuals.
-- **Sales Dataset** : The dataset used for analysis, including columns such as date, region, product, quantity sold, and revenue.
-- **Supporting Documentation**: Explanation of key business insights and technical setup within the Power BI file.
+- **Power BI file** : The main Power BI report file containing the dashboard and associated visuals along with business insights and key points
+- **Sales Dataset** : The dataset used for analysis, including columns such as date, region, product, quantity sold, and revenue
 
 
 # Future Improvements:
